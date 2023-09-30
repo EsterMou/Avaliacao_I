@@ -1,8 +1,9 @@
-public class velocidade {
+package impl;
+public class Velocidade {
 
     Integer valor = 0;
 
-    public velocidade(Integer valor){
+    public Velocidade(Integer valor){
         this.valor = valor;
     }
 

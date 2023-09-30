@@ -1,9 +1,10 @@
+package Ordenador;
 import java.util.List;
 
-public class ordernar<radar> {
+public class Ordenar<radar> {
     protected List<radar> leituras = null;
 
-    public ordernar(List<radar> leituras) {
+    public Ordenar(List<radar> leituras) {
         this.leituras = leituras;
     }
 

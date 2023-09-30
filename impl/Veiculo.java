@@ -1,9 +1,11 @@
-public class veiculo {
+package impl;
+public class Veiculo {
     
     private String modelo;
     private String placa;
 
-    public veiculo(String modelo, String placa){
+
+    public Veiculo(String modelo, String placa){
         this.modelo = modelo;
         this.placa = placa;
     }
